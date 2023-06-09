@@ -237,5 +237,3 @@
 // console.log(data.findIndex(d => {return d == 'Codi'
 // }));
 
-const addName = document.querySelector ("#input")
-const displayName = document.querySelector("#display") 
