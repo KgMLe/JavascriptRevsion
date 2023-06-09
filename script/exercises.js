@@ -1,13 +1,7 @@
 // 19 May 2023
 // reverse a word and dislpay on console log
 
-let sentence = "I love programming";
-console.log(sentence.length);
-console.log(sentence);
-console.log(sentence[sentence.length-1]);
-console.log(sentence[0],
-sentence.slice(sentence.lastIndexOf('n')+1,
-sentence.length+1));
+
 
 
 //Ryan's work 7 June 2023
